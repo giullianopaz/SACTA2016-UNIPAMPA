@@ -1,6 +1,0 @@
-
----Inicio do arquivo teste
-
-	Conteúdo do arquivo	
-
----Fim do arquivo teste
